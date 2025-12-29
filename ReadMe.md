@@ -48,12 +48,15 @@ This repository contains data files and tools related to the Guangyun (《广韵
 
 ⸻
 
-5. 韵图的韵母初始数据 | Initial Finals Data
+5. yonNjiu.json 韵图的韵母初始数据 | Initial Finals Data
 	•	用于定义韵图中各类 韵母（韵部 / 韵类） 的基础结构与分组方式
 	•	与声母数据配合，共同决定韵图的整体布局与逻辑结构
 	•	Defines the basic structure and grouping of finals (rhyme categories) used in rhyme tables
 	•	Works together with initial consonant data to determine the overall layout and logical organization of the rhyme tables
 
+6. 廣韻20131021.xls 广韵全字表 | The Complete Character List of Guangyun
+   初始的数据文件，将广韵中的全部信息电子化为xls文件。
+   The initial data file converts all the information in the Guangyun dictionary into an electronic format in the form of an xls file.
 ⸻
 
 适用场景 | Use Cases
