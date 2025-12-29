@@ -4,9 +4,9 @@ YontenData
 
 This repository contains data files and tools related to the Guangyun (《广韵》), mainly for rhyme table generation, phonological analysis, and related research purposes.
 
-⸻
-
 文件说明 | File Description
+
+⸻
 
 1. superttf.ttf
 	•	方正超大字符集字体文件
